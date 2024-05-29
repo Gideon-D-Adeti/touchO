@@ -21,6 +21,14 @@ sudo chmod +x /usr/local/bin/touchO
 
 ## Usage
 ```bash
+touchO <file1> [<file2> ...]
+```
+
+### Examples
+```bash
+touchO README.md
+```
+```bash
 touchO index.html style.css script.js
 ```
 
